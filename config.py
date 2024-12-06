@@ -1,4 +1,5 @@
-UnqueUsername = ''
-Education = ''
+BOTTOKEN = '7721365693:AAEUpOEvYHSWDCgrZl7WIc__ocrstGpMDsg'
 
-NextID = 1
+#UnqueUsername = ''
+#Education = ''
+#NextID = 1
